@@ -1,2 +1,3 @@
 # Sudoo-Small-Docs-React
-:blush: Small Docs React
+
+Small Docs React
